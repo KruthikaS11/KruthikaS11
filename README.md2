@@ -1,0 +1,16 @@
+# To-Do List Application (Python)
+
+This is a simple To-Do List application built using Python.
+
+## Features
+- Add tasks
+- View tasks
+- Delete tasks
+- Data persistence using file handling
+
+## Technologies Used
+- Python
+
+## How to Run
+Run the following command:
+python todo.py
